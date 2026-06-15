@@ -21,7 +21,7 @@ The primary objective of this project is to:
 - Total Features: 9
 - File Format: XLSX
 
-# 🛠️ Tools & Technologies Used
+#  Tools & Technologies Used
 
 ## Data Analysis
 - Python
