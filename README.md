@@ -29,13 +29,9 @@ The primary objective of this project is to:
 ## Machine Learning
 - Scikit-Learn
 - K-Means Clustering
-## Data Visualization
-- Matplotlib
-- Power BI
 ## Data Storage
 - Microsoft Excel
 ## Development Environment
-- Jupyter Notebook
 - Visual Studio Code
 
 #  Project Workflow
@@ -56,6 +52,17 @@ The primary objective of this project is to:
 
 # Dashboard
 <img width="1119" height="679" alt="customer_segmentation_dashboard" src="https://github.com/user-attachments/assets/fcf9f9a4-695a-4a5a-b7ba-c3e0544b233d" />
+
+# Results
+The clustering model successfully grouped customers into distinct segments based on their behavior and spending patterns.
+The dashboard provides clear insights to support better business decisions and targeted marketing strategies.
+
+# Conclusion
+- Customer segmentation helps understand customer behavior and improve marketing strategies.
+- Clustering analysis provides valuable insights for better business decisions and growth.
+
+# Author
+Sakunthala Gosala
 
 
 
