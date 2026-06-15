@@ -22,10 +22,20 @@ The primary objective of this project is to:
 - File Format: XLSX
 
 #  Tools & Technologies Used
-
 ## Data Analysis
 - Python
 - Pandas
 - NumPy
+## Machine Learning
+- Scikit-Learn
+- K-Means Clustering
+## Data Visualization
+- Matplotlib
+- Power BI
+## Data Storage
+- Microsoft Excel
+## Development Environment
+- Jupyter Notebook
+- Visual Studio Code
 
 
