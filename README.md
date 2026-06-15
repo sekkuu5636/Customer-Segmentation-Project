@@ -15,3 +15,9 @@ The primary objective of this project is to:
 
 ## Dataset used
 - <a href="https://github.com/sekkuu5636/Customer-Segmentation-Project/blob/main/Customer_Segmentation.pbix.xlsx">Dataset</a>
+
+### Dataset Size
+- Total Records: 200
+- Total Features: 9
+- File Format: XLSX
+
