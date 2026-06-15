@@ -14,4 +14,4 @@ The primary objective of this project is to:
 - Support data-driven business decisions.
 
 ## Dataset used
-- <a href="https://github.com/sekkuu5636/Customer-Segmentation-Project/blob/main/Customer_Segmentation.pbix.xlsx">
+- <a href="https://github.com/sekkuu5636/Customer-Segmentation-Project/blob/main/Customer_Segmentation.pbix.xlsx">Dataset</a>
