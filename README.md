@@ -54,4 +54,8 @@ The primary objective of this project is to:
 - Frequent buyers are valuable for customer retention and revenue growth.
 - Segmentation enables targeted marketing and better customer engagement.
 
+# Dashboard
+<img width="1119" height="679" alt="customer_segmentation_dashboard" src="https://github.com/user-attachments/assets/fcf9f9a4-695a-4a5a-b7ba-c3e0544b233d" />
+
+
 
