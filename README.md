@@ -49,4 +49,9 @@ The primary objective of this project is to:
 - Create charts and KPIs.
 - Generate insights and recommendations.
 
+# Key Insights
+- High-income customers generally show higher spending behavior.
+- Frequent buyers are valuable for customer retention and revenue growth.
+- Segmentation enables targeted marketing and better customer engagement.
+
 
