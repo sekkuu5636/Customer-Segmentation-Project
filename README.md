@@ -38,4 +38,15 @@ The primary objective of this project is to:
 - Jupyter Notebook
 - Visual Studio Code
 
+#  Project Workflow
+## Step 1: Collect Data
+- Gather customer data.
+- Store data in Excel.
+## Step 2: Analyze Customers
+- Explore customer behavior.
+- Create customer segments using clustering.
+## Step 3: Build Dashboard
+- Create charts and KPIs.
+- Generate insights and recommendations.
+
 
