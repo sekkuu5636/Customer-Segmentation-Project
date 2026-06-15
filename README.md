@@ -12,3 +12,6 @@ The primary objective of this project is to:
 - Improve targeted marketing campaigns.
 - Increase customer retention and engagement.
 - Support data-driven business decisions.
+
+## Dataset used
+- <a href="https://github.com/sekkuu5636/Customer-Segmentation-Project/blob/main/Customer_Segmentation.pbix.xlsx">
